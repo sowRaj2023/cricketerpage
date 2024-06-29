@@ -1,0 +1,28 @@
+.top-section{
+    background-color:#fb4e71;
+    height: 20vh;
+    padding: 30px;
+    text-align: center;
+}
+
+.heading{
+    font-size: 44px;
+    color: burlywood;
+    
+}
+.paragraph{
+    font-size: 34px;
+    color: whitesmoke;
+}
+.bottom-container{
+    background-color: lightblue;
+    height: 80vh;
+    padding: 30px;
+}
+.container{
+    height: 10vh;
+    background-color: aliceblue;
+}
+.image{
+    margin-left: 0px;
+}
